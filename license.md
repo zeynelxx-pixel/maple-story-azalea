@@ -195,4 +195,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*MapleStory · Updated 2026-11-19 · Shared under the MIT License*
+*MapleStory · Updated 2026-11-20 · Shared under the MIT License*
